@@ -5,7 +5,6 @@
 int main() {
     Tree a;
     a.insert(5);
-    a.insert(5);
 
     a.insert(8);
     a.insert(10);
